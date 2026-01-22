@@ -29,7 +29,7 @@ multipliers = {
 # --- MQTT Configuration ---
 MQTT_BROKER = "mqtt.sworks.co.in"
 MQTT_PORT = 1883
-MQTT_TOPIC = "smart-meter/arihant"
+MQTT_TOPIC = "smart-meter/"
 MQTT_USER = "sworks"
 MQTT_PASSWORD = "S@works@1231"
 
