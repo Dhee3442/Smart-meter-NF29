@@ -4,4 +4,6 @@ pip3 install minimalmodbus --break-system-packages
 sudo apt install python3-paho-mqtt
 sudo apt update
 sudo apt install python3-systemd
+python3 -m pip install flask --break-system-packages
+
 
