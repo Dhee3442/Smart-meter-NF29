@@ -8,7 +8,7 @@ import os
 import sys
 
 # --- Meter configuration ---
-METER_IDS = [7, 8, 9, 10, 11]
+METER_IDS = [1]
 DEVICE = '/dev/ttyUSB0'
 BAUDRATE = 9600
 
